@@ -1,0 +1,7 @@
+
+[
+    {"employeeId":101, "employeeName":"duyen", "sex":"male","salary":1000},
+    {"employeeId":102, "employeeName":"nhan", "sex":"man","salary":1000},
+    {"employeeId":103, "employeeName":"toan", "sex":"man","salary":200},
+    {"employeeId":104, "employeeName":"mai", "sex":"male","salary":3000}
+]
